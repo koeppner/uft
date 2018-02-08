@@ -1,0 +1,6 @@
+﻿Browser("British American Tobacco").Page("British American Tobacco").WebEdit("SQRY").Set "anbau" @@ hightlight id_;_Browser("British American Tobacco").Page("British American Tobacco").WebEdit("SQRY")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("British American Tobacco").Page("British American Tobacco").Image("Suchen").Click 2,2 @@ hightlight id_;_Browser("British American Tobacco").Page("British American Tobacco").Image("Suchen")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("British American Tobacco").Page("British American Tobacco_2").Link("Film „Vom Anbau zur fertigen").Click @@ hightlight id_;_Browser("British American Tobacco").Page("British American Tobacco 2").Link("Film „Vom Anbau zur fertigen")_;_script infofile_;_ZIP::ssf3.xml_;_
+Browser("British American Tobacco").Page("British American Tobacco_3").Sync @@ hightlight id_;_Browser("British American Tobacco").Page("British American Tobacco_3")_;_script infofile_;_ZIP::ssf4.xml_;_
+Browser("British American Tobacco").Back
+Browser("British American Tobacco").Page("British American Tobacco_2").Link("Unsere Produkte").Click @@ hightlight id_;_Browser("British American Tobacco").Page("British American Tobacco 2").Link("Unsere Produkte")_;_script infofile_;_ZIP::ssf5.xml_;_
